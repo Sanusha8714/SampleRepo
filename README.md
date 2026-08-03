@@ -15,6 +15,7 @@
 ## Data Transformation and Exploration (EDA):
 - description
 - images of charts/visuals code
+- ![image](images/img1.png)
 
 ## Analysis Report:
 - conclusion/recommedantion/suggestion -  Analysis report
